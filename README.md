@@ -18,6 +18,7 @@ This review offers a thorough analysis of AI-enabled cloud services, focusing on
 You can read my full review paper here:  
 [👉 View or Download the PDF](./Review-Paper-Mareer.pdf)
 
+Poster :
 ![image](./poster.jpg)
 
 
