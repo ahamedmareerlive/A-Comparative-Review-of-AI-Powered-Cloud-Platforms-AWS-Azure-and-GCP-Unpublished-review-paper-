@@ -2,7 +2,7 @@
 
 ### **Review Paper**
 
-This repository hosts a systematic review paper that provides a detailed comparison of AI-powered cloud services from the three leading providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+This is a systematic review paper (Unpuplished) that provides a detailed comparison of AI-powered cloud services from the three leading providers: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 ## Overview
 
