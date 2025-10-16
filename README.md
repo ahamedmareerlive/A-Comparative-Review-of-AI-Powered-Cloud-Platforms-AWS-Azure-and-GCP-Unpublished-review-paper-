@@ -3,5 +3,5 @@
 ## 📄 My Review Paper
 
 You can read my full review paper here:  
-[👉 View or Download the PDF](./Review Paper-Mareer.pdf)
+[👉 View or Download the PDF](./Review-Paper-Mareer.pdf)
 
